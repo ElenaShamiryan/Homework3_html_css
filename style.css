@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.catalog{
+    padding-top: 51px;
+}
+
+.top_content{
+    margin-top: 160px;
+    margin-bottom: 197px;
+}
+
+.title{
+    margin-bottom: 17px;
+}
+
+.subtitle{
+    margin-bottom: 37px;
+}
+
+.top_button{
+   margin-bottom: 162px;
+}
+
+.logo{
+    margin-top: 97px;
+    margin-bottom: 96px;
+}
